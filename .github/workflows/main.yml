@@ -148,7 +148,6 @@ jobs:
           push: true
           tags: vaska2024/taski_gateway:latest
 
-
   deploy:
     runs-on: ubuntu-latest
     needs: 
